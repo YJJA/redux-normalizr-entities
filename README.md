@@ -1,0 +1,1 @@
+# redux-normalizr-entities
